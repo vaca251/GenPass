@@ -6,13 +6,16 @@ options:
   
   --length LENGTH, -l LENGTH
   
-                        Passwords length
+  Passwords length
                         
   --amount AMOUNT, -a AMOUNT
   
-                        Number of passwords
+  Number of passwords
                         
-  --file FILE, -f FILE  File for saving all passwords
+  --file FILE, -f FILE  
+  
+  File for saving all passwords
   
   --chars CHARS, -c CHARS
-                        Password characters
+  
+  Password characters
