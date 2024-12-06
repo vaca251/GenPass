@@ -1,9 +1,3 @@
-usage: GenPass.py [-h] --length LENGTH --amount AMOUNT [--file FILE] [--chars CHARS]
-
-options:
-
-  -h, --help            show this help message and exit
-  
   --length LENGTH, -l LENGTH
   
   Passwords length
